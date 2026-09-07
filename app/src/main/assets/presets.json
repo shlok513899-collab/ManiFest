@@ -1,0 +1,1530 @@
+[
+  {
+    "category": "Drive, Motivation & Physical Energy",
+    "title": "Hyper-Focus & Action",
+    "audio_type": "Binaural Beat",
+    "technical_hz": "200 Hz base / 40 Hz Gamma",
+    "target_outcome": "Fast cognitive processing and rapid task execution",
+    "tags": ["#focus", "#gamma", "#productivity"]
+  },
+  {
+    "category": "Drive, Motivation & Physical Energy",
+    "title": "Adrenaline Surge",
+    "audio_type": "Isochronic Pulse",
+    "technical_hz": "22 Hz High-Beta",
+    "target_outcome": "High physical energy and workout momentum",
+    "tags": ["#energy", "#workout", "#motivation"]
+  },
+  {
+    "category": "Drive, Motivation & Physical Energy",
+    "title": "Warrior Willpower",
+    "audio_type": "Solfeggio Tone",
+    "technical_hz": "528 Hz",
+    "target_outcome": "Unwavering resilience and proactive drive",
+    "tags": ["#willpower", "#drive", "#confidence"]
+  },
+  {
+    "category": "Drive, Motivation & Physical Energy",
+    "title": "Solar Energy Spark",
+    "audio_type": "Planetary Tone",
+    "technical_hz": "126.22 Hz (Sun Octave)",
+    "target_outcome": "Radiant morning dynamism and vitality",
+    "tags": ["#morning", "#vitality", "#sun"]
+  },
+  {
+    "category": "Drive, Motivation & Physical Energy",
+    "title": "Relentless Focus Loop",
+    "audio_type": "Noise + Binaural",
+    "technical_hz": "Brown Noise + 18 Hz Beta",
+    "target_outcome": "Deep immersion without procrastination",
+    "tags": ["#deepwork", "#immersion", "#flow"]
+  },
+  {
+    "category": "Drive, Motivation & Physical Energy",
+    "title": "Endurance Stride",
+    "audio_type": "Harmonic Tone",
+    "technical_hz": "111 Hz",
+    "target_outcome": "Sustained physical endurance and stamina",
+    "tags": ["#endurance", "#stamina", "#grit"]
+  },
+  {
+    "category": "Deep Sleep & Restorative Rest",
+    "title": "Delta Deep Sleep Gate",
+    "audio_type": "Binaural Beat",
+    "technical_hz": "100 Hz base / 2.5 Hz Delta",
+    "target_outcome": "Deep slow-wave restorative night sleep",
+    "tags": ["#sleep", "#delta", "#recovery"]
+  },
+  {
+    "category": "Deep Sleep & Restorative Rest",
+    "title": "Midnight Brown Noise",
+    "audio_type": "Colored Noise",
+    "technical_hz": "Brown Noise",
+    "target_outcome": "Masks night disturbances and creates a velvet sound blanket",
+    "tags": ["#brownnoise", "#insomnia", "#rest"]
+  },
+  {
+    "category": "Deep Sleep & Restorative Rest",
+    "title": "Cellular Sleep Regeneration",
+    "audio_type": "Solfeggio Tone",
+    "technical_hz": "285 Hz",
+    "target_outcome": "Nighttime rejuvenation and physical rest",
+    "tags": ["#restoration", "#healing", "#sleep"]
+  },
+  {
+    "category": "Deep Sleep & Restorative Rest",
+    "title": "Drifting Delta Waves",
+    "audio_type": "Isochronic Pulse",
+    "technical_hz": "1.5 Hz Delta",
+    "target_outcome": "Subconscious slowing and rapid sleep onset",
+    "tags": ["#sleeponset", "#bedtime", "#delta"]
+  },
+  {
+    "category": "Deep Sleep & Restorative Rest",
+    "title": "Slumber Rain Cocoon",
+    "audio_type": "Noise + Binaural",
+    "technical_hz": "Pink Noise + 3 Hz Delta",
+    "target_outcome": "Gentle hypnotic acoustic comfort for sleep",
+    "tags": ["#cocoon", "#pinknoise", "#night"]
+  },
+  {
+    "category": "Deep Sleep & Restorative Rest",
+    "title": "Deep Cosmos Theta",
+    "audio_type": "Binaural Beat",
+    "technical_hz": "95 Hz base / 4.5 Hz Theta",
+    "target_outcome": "Pre-sleep twilight relaxation and drifting thoughts",
+    "tags": ["#twilight", "#relaxation", "#calm"]
+  },
+  {
+    "category": "Focus, Flow & Mental Clarity",
+    "title": "Alpha Flow State",
+    "audio_type": "Binaural Beat",
+    "technical_hz": "140 Hz base / 10 Hz Alpha",
+    "target_outcome": "Effortless creative concentration and smooth workflow",
+    "tags": ["#flow", "#alpha", "#study"]
+  },
+  {
+    "category": "Focus, Flow & Mental Clarity",
+    "title": "Study Anchor Pink Noise",
+    "audio_type": "Colored Noise",
+    "technical_hz": "Pink Noise",
+    "target_outcome": "Reduces auditory fatigue during intense reading sessions",
+    "tags": ["#pinknoise", "#study", "#clarity"]
+  },
+  {
+    "category": "Focus, Flow & Mental Clarity",
+    "title": "Cognitive Clarity 432 Hz",
+    "audio_type": "Harmonic Resonance",
+    "technical_hz": "432 Hz",
+    "target_outcome": "Mental harmony and reduction of intellectual tension",
+    "tags": ["#clarity", "#harmonic", "#432hz"]
+  },
+  {
+    "category": "Focus, Flow & Mental Clarity",
+    "title": "Laser Focus Pulse",
+    "audio_type": "Isochronic Pulse",
+    "technical_hz": "16 Hz Beta",
+    "target_outcome": "Keeps mind sharp and alert during intricate analysis",
+    "tags": ["#analysis", "#sharp", "#focus"]
+  },
+  {
+    "category": "Focus, Flow & Mental Clarity",
+    "title": "Gamma Processing Power",
+    "audio_type": "Binaural Beat",
+    "technical_hz": "120 Hz base / 40 Hz Gamma",
+    "target_outcome": "High-level information synthesis and problem-solving",
+    "tags": ["#gamma", "#cognition", "#brain"]
+  },
+  {
+    "category": "Stress, Anxiety & Nervous System Calm",
+    "title": "Vagus Nerve Reset",
+    "audio_type": "Resonant Tone",
+    "technical_hz": "7.83 Hz (Schumann)",
+    "target_outcome": "Parasympathetic nervous system soothing and grounding",
+    "tags": ["#calm", "#grounding", "#vagus"]
+  },
+  {
+    "category": "Stress, Anxiety & Nervous System Calm",
+    "title": "Anxiety Dissolver",
+    "audio_type": "Solfeggio Tone",
+    "technical_hz": "396 Hz",
+    "target_outcome": "Releases subconscious tension and nervous fear",
+    "tags": ["#relief", "#peace", "#solfeggio"]
+  },
+  {
+    "category": "Stress, Anxiety & Nervous System Calm",
+    "title": "Theta Serenity Wave",
+    "audio_type": "Binaural Beat",
+    "technical_hz": "125 Hz base / 6 Hz Theta",
+    "target_outcome": "Soothes racing thoughts into gentle inner stillness",
+    "tags": ["#serenity", "#theta", "#peace"]
+  },
+  {
+    "category": "Stress, Anxiety & Nervous System Calm",
+    "title": "Warm Brown Noise Sanctuary",
+    "audio_type": "Colored Noise",
+    "technical_hz": "Brown Noise",
+    "target_outcome": "Low-frequency sanctuary shielding from auditory sensory overload",
+    "tags": ["#sanctuary", "#brownnoise", "#calm"]
+  },
+  {
+    "category": "Stress, Anxiety & Nervous System Calm",
+    "title": "Paced Breath Companion",
+    "audio_type": "Isochronic Pulse",
+    "technical_hz": "6 Hz Theta",
+    "target_outcome": "Guides rhythmic diaphragmatic breathing and heartbeat deceleration",
+    "tags": ["#breathing", "#heartrate", "#soothe"]
+  },
+  {
+    "category": "Stress, Anxiety & Nervous System Calm",
+    "title": "Gentle White Noise Veil",
+    "audio_type": "Colored Noise",
+    "technical_hz": "White Noise",
+    "target_outcome": "Clean acoustic veil blocking disruptive sudden ambient noise",
+    "tags": ["#whitenoise", "#veil", "#isolation"]
+  },
+  {
+    "category": "Love, Romance & Attraction",
+    "title": "First Spark Ignition",
+    "audio_type": "Binaural Beat",
+    "technical_hz": "175 Hz base / 10 Hz Alpha",
+    "target_outcome": "Playful curiosity and openness for new romantic connections",
+    "tags": ["#dating", "#attraction"]
+  },
+  {
+    "category": "Love, Romance & Attraction",
+    "title": "Heart Chakra Magnet",
+    "audio_type": "Solfeggio Tone",
+    "technical_hz": "639 Hz",
+    "target_outcome": "Draws harmonious romantic partnerships and warmth",
+    "tags": ["#love", "#heartchakra"]
+  },
+  {
+    "category": "Love, Romance & Attraction",
+    "title": "Venus Love Call",
+    "audio_type": "Planetary Tone",
+    "technical_hz": "221.23 Hz (Venus Octave)",
+    "target_outcome": "Softens defenses and increases romantic warmth",
+    "tags": ["#romance"]
+  },
+  {
+    "category": "Love, Romance & Attraction",
+    "title": "Reignite the Spark",
+    "audio_type": "Binaural Beat",
+    "technical_hz": "145 Hz base / 8 Hz Alpha",
+    "target_outcome": "Rekindles passion in long-term relationships",
+    "tags": ["#longterm", "#passion"]
+  },
+  {
+    "category": "Love, Romance & Attraction",
+    "title": "Twin Flame Resonance",
+    "audio_type": "Angel Frequency",
+    "technical_hz": "1111 Hz",
+    "target_outcome": "Deep soul-connection contemplation and reflection",
+    "tags": ["#soulmate"]
+  },
+  {
+    "category": "Love, Romance & Attraction",
+    "title": "Date Night Ease",
+    "audio_type": "Isochronic Pulse",
+    "technical_hz": "9 Hz Alpha",
+    "target_outcome": "Calms first-date nerves for natural conversation flow",
+    "tags": ["#dating", "#nerves"]
+  },
+  {
+    "category": "Love, Romance & Attraction",
+    "title": "Unconditional Partnership",
+    "audio_type": "Solfeggio Tone",
+    "technical_hz": "528 Hz",
+    "target_outcome": "Repairs trust and reinforces mutual devotion",
+    "tags": ["#trust", "#relationship"]
+  },
+  {
+    "category": "Sensuality & Body Confidence",
+    "title": "Sacral Awakening",
+    "audio_type": "Chakra Tone",
+    "technical_hz": "417 Hz (Sacral)",
+    "target_outcome": "Reconnects with pleasure, creativity, and sensuality",
+    "tags": ["#sacralchakra"]
+  },
+  {
+    "category": "Sensuality & Body Confidence",
+    "title": "Body Temple Appreciation",
+    "audio_type": "Solfeggio Tone",
+    "technical_hz": "528 Hz",
+    "target_outcome": "Self-love and appreciation toward one's physical body",
+    "tags": ["#selflove", "#bodyimage"]
+  },
+  {
+    "category": "Sensuality & Body Confidence",
+    "title": "Slow Burn",
+    "audio_type": "Binaural Beat",
+    "technical_hz": "130 Hz base / 6 Hz Theta",
+    "target_outcome": "Deep relaxation blended with sensual presence",
+    "tags": ["#intimacy"]
+  },
+  {
+    "category": "Sensuality & Body Confidence",
+    "title": "Radiant Glow",
+    "audio_type": "Angel Frequency",
+    "technical_hz": "444 Hz",
+    "target_outcome": "Subtle confidence and a sense of outward radiance",
+    "tags": ["#confidence"]
+  },
+  {
+    "category": "Sensuality & Body Confidence",
+    "title": "Intimate Trust",
+    "audio_type": "Solfeggio Tone",
+    "technical_hz": "639 Hz",
+    "target_outcome": "Vulnerability and safety in close relationships",
+    "tags": ["#trust"]
+  },
+  {
+    "category": "Sensuality & Body Confidence",
+    "title": "Receptive & Active Flow",
+    "audio_type": "Planetary Tone",
+    "technical_hz": "210.42 Hz (Moon Octave)",
+    "target_outcome": "Balancing receptive and active personal energies",
+    "tags": ["#balance"]
+  },
+  {
+    "category": "Sensuality & Body Confidence",
+    "title": "Comfortable in Your Skin",
+    "audio_type": "Binaural Beat",
+    "technical_hz": "150 Hz base / 9 Hz Alpha",
+    "target_outcome": "Reduces body-image self-consciousness",
+    "tags": ["#bodyimage", "#confidence"]
+  },
+  {
+    "category": "Fertility & Feminine Energy",
+    "title": "Moon Cycle Harmony",
+    "audio_type": "Planetary Tone",
+    "technical_hz": "210.42 Hz (Moon Octave)",
+    "target_outcome": "Supports awareness of hormonal/cyclical rhythm",
+    "tags": ["#cycle"]
+  },
+  {
+    "category": "Fertility & Feminine Energy",
+    "title": "Womb Space Calm",
+    "audio_type": "Chakra Tone",
+    "technical_hz": "417 Hz (Sacral)",
+    "target_outcome": "Gentle relaxation during fertility journeys",
+    "tags": ["#fertility", "#calm"]
+  },
+  {
+    "category": "Fertility & Feminine Energy",
+    "title": "Nurture & Receive",
+    "audio_type": "Solfeggio Tone",
+    "technical_hz": "528 Hz",
+    "target_outcome": "Emotional openness during conception journeys",
+    "tags": ["#fertility"]
+  },
+  {
+    "category": "Fertility & Feminine Energy",
+    "title": "Prenatal Bonding",
+    "audio_type": "Binaural Beat",
+    "technical_hz": "110 Hz base / 6 Hz Theta",
+    "target_outcome": "Calm bonding time for parent and baby",
+    "tags": ["#pregnancy", "#bonding"]
+  },
+  {
+    "category": "Fertility & Feminine Energy",
+    "title": "Cycle Syncing Ease",
+    "audio_type": "Isochronic Pulse",
+    "technical_hz": "7 Hz Theta",
+    "target_outcome": "Gentle support through monthly hormonal shifts",
+    "tags": ["#cycle"]
+  },
+  {
+    "category": "Fertility & Feminine Energy",
+    "title": "Divine Feminine Rise",
+    "audio_type": "Angel Frequency",
+    "technical_hz": "222 Hz",
+    "target_outcome": "Softness, intuition, and feminine confidence",
+    "tags": ["#feminine"]
+  },
+  {
+    "category": "Fertility & Feminine Energy",
+    "title": "Patience Through the Process",
+    "audio_type": "Solfeggio Tone",
+    "technical_hz": "396 Hz",
+    "target_outcome": "Releasing fear and impatience during a fertility journey",
+    "tags": ["#patience", "#fertility"]
+  },
+  {
+    "category": "Career Transition & Interview Confidence",
+    "title": "Interview Composure",
+    "audio_type": "Binaural Beat",
+    "technical_hz": "160 Hz base / 13 Hz SMR",
+    "target_outcome": "Steady, articulate calm under interview pressure",
+    "tags": ["#interview"]
+  },
+  {
+    "category": "Career Transition & Interview Confidence",
+    "title": "First Day Confidence",
+    "audio_type": "Solfeggio Tone",
+    "technical_hz": "528 Hz",
+    "target_outcome": "Settles nerves entering a new role",
+    "tags": ["#newjob"]
+  },
+  {
+    "category": "Career Transition & Interview Confidence",
+    "title": "Resume & LinkedIn Clarity",
+    "audio_type": "Isochronic Pulse",
+    "technical_hz": "16 Hz Beta",
+    "target_outcome": "Focused administrative career-prep sessions",
+    "tags": ["#admin", "#jobsearch"]
+  },
+  {
+    "category": "Career Transition & Interview Confidence",
+    "title": "The Pivot Point",
+    "audio_type": "Angel Frequency",
+    "technical_hz": "111 Hz",
+    "target_outcome": "Embracing a fresh professional direction",
+    "tags": ["#careerchange"]
+  },
+  {
+    "category": "Career Transition & Interview Confidence",
+    "title": "Negotiate Your Worth",
+    "audio_type": "Solfeggio Tone",
+    "technical_hz": "639 Hz",
+    "target_outcome": "Confident salary and rate discussions",
+    "tags": ["#negotiation"]
+  },
+  {
+    "category": "Career Transition & Interview Confidence",
+    "title": "Networking Ease",
+    "audio_type": "Binaural Beat",
+    "technical_hz": "155 Hz base / 10 Hz Alpha",
+    "target_outcome": "Comfortable small talk and rapport-building",
+    "tags": ["#networking"]
+  },
+  {
+    "category": "Career Transition & Interview Confidence",
+    "title": "The Promotion Mindset",
+    "audio_type": "Planetary Tone",
+    "technical_hz": "183.58 Hz (Jupiter Octave)",
+    "target_outcome": "Visioning readiness for next-level responsibility",
+    "tags": ["#promotion"]
+  },
+  {
+    "category": "Public Speaking & Vocal Command",
+    "title": "Center Stage Calm",
+    "audio_type": "Resonant Tone",
+    "technical_hz": "7.83 Hz (Schumann)",
+    "target_outcome": "Neutralizes stage-fright nervous system activation",
+    "tags": ["#stagefright"]
+  },
+  {
+    "category": "Public Speaking & Vocal Command",
+    "title": "Vocal Resonance & Projection",
+    "audio_type": "Solfeggio Tone",
+    "technical_hz": "741 Hz",
+    "target_outcome": "Clear, articulate, expressive speech",
+    "tags": ["#voice"]
+  },
+  {
+    "category": "Public Speaking & Vocal Command",
+    "title": "Command the Room",
+    "audio_type": "Planetary Tone",
+    "technical_hz": "126.22 Hz (Sun Octave)",
+    "target_outcome": "Commanding presence and perceived authority",
+    "tags": ["#presence"]
+  },
+  {
+    "category": "Public Speaking & Vocal Command",
+    "title": "Q&A Quick-Think",
+    "audio_type": "Binaural Beat",
+    "technical_hz": "170 Hz base / 16 Hz Beta",
+    "target_outcome": "Fast improvisational thinking under scrutiny",
+    "tags": ["#improv"]
+  },
+  {
+    "category": "Public Speaking & Vocal Command",
+    "title": "Breath Before the Mic",
+    "audio_type": "Isochronic Pulse",
+    "technical_hz": "8 Hz Alpha",
+    "target_outcome": "Pre-talk breathing pacing tool",
+    "tags": ["#breathwork"]
+  },
+  {
+    "category": "Public Speaking & Vocal Command",
+    "title": "Storytelling Flow",
+    "audio_type": "Binaural Beat",
+    "technical_hz": "150 Hz base / 9 Hz Alpha",
+    "target_outcome": "Natural narrative rhythm and audience connection",
+    "tags": ["#storytelling"]
+  },
+  {
+    "category": "Public Speaking & Vocal Command",
+    "title": "Post-Talk Decompress",
+    "audio_type": "Harmonic Resonance",
+    "technical_hz": "432 Hz",
+    "target_outcome": "Coming down from adrenaline after presenting",
+    "tags": ["#decompress"]
+  },
+  {
+    "category": "Addiction Recovery & Sobriety Support",
+    "title": "Craving Wave Rider",
+    "audio_type": "Binaural Beat",
+    "technical_hz": "120 Hz base / 7 Hz Theta",
+    "target_outcome": "Support riding out an acute urge wave",
+    "tags": ["#cravings"]
+  },
+  {
+    "category": "Addiction Recovery & Sobriety Support",
+    "title": "One Day at a Time Anchor",
+    "audio_type": "Solfeggio Tone",
+    "technical_hz": "396 Hz",
+    "target_outcome": "Releasing guilt and shame cycles",
+    "tags": ["#recovery"]
+  },
+  {
+    "category": "Addiction Recovery & Sobriety Support",
+    "title": "Clean Slate Reset",
+    "audio_type": "Angel Frequency",
+    "technical_hz": "444 Hz",
+    "target_outcome": "Reinforces daily sobriety commitment",
+    "tags": ["#sobriety"]
+  },
+  {
+    "category": "Addiction Recovery & Sobriety Support",
+    "title": "Withdrawal Ease Companion",
+    "audio_type": "Noise + Pure",
+    "technical_hz": "White Noise + 432 Hz",
+    "target_outcome": "Masking background irritability and restlessness",
+    "tags": ["#withdrawal"]
+  },
+  {
+    "category": "Addiction Recovery & Sobriety Support",
+    "title": "Community & Connection",
+    "audio_type": "Solfeggio Tone",
+    "technical_hz": "639 Hz",
+    "target_outcome": "Rebuilding trust in relationships during recovery",
+    "tags": ["#connection"]
+  },
+  {
+    "category": "Addiction Recovery & Sobriety Support",
+    "title": "Late Night Trigger Shield",
+    "audio_type": "Colored Noise",
+    "technical_hz": "Brown Noise",
+    "target_outcome": "Blocks environmental triggers before sleep",
+    "tags": ["#nighttime"]
+  },
+  {
+    "category": "Addiction Recovery & Sobriety Support",
+    "title": "The Long Road Stamina",
+    "audio_type": "Planetary Tone",
+    "technical_hz": "147.85 Hz (Saturn Octave)",
+    "target_outcome": "Discipline to sustain long-term recovery",
+    "tags": ["#discipline"]
+  },
+  {
+    "category": "Grounding & Nature Connection",
+    "title": "Forest Floor Rooting",
+    "audio_type": "Resonant Tone",
+    "technical_hz": "7.83 Hz (Schumann)",
+    "target_outcome": "Deep earth-connection grounding",
+    "tags": ["#grounding"]
+  },
+  {
+    "category": "Grounding & Nature Connection",
+    "title": "Barefoot Earthing",
+    "audio_type": "Chakra Tone",
+    "technical_hz": "396 Hz (Root)",
+    "target_outcome": "Physical stability and safety sensation",
+    "tags": ["#rootchakra"]
+  },
+  {
+    "category": "Grounding & Nature Connection",
+    "title": "Mountain Stillness",
+    "audio_type": "Harmonic Resonance",
+    "technical_hz": "432 Hz",
+    "target_outcome": "Slow, heavy, immovable sense of calm",
+    "tags": ["#stillness"]
+  },
+  {
+    "category": "Grounding & Nature Connection",
+    "title": "River Flow Release",
+    "audio_type": "Binaural Beat",
+    "technical_hz": "125 Hz base / 8 Hz Alpha",
+    "target_outcome": "Letting go with a natural flowing rhythm",
+    "tags": ["#release"]
+  },
+  {
+    "category": "Grounding & Nature Connection",
+    "title": "Sunrise Reconnection",
+    "audio_type": "Angel Frequency",
+    "technical_hz": "111 Hz",
+    "target_outcome": "Renewed daily connection to nature's rhythm",
+    "tags": ["#morning"]
+  },
+  {
+    "category": "Grounding & Nature Connection",
+    "title": "Starlit Expansion",
+    "audio_type": "Binaural Beat",
+    "technical_hz": "140 Hz base / 4 Hz Theta",
+    "target_outcome": "Sense of awe and perspective under an open sky",
+    "tags": ["#perspective"]
+  },
+  {
+    "category": "Grounding & Nature Connection",
+    "title": "Elemental Balance",
+    "audio_type": "Harmonic Tone",
+    "technical_hz": "111 Hz",
+    "target_outcome": "General grounding through nature symbolism",
+    "tags": ["#balance"]
+  },
+  {
+    "category": "Full Chakra Balancing",
+    "title": "Root Chakra Stability",
+    "audio_type": "Chakra Tone",
+    "technical_hz": "396 Hz",
+    "target_outcome": "Safety, survival, physical grounding",
+    "tags": ["#rootchakra"]
+  },
+  {
+    "category": "Full Chakra Balancing",
+    "title": "Sacral Chakra Creativity",
+    "audio_type": "Chakra Tone",
+    "technical_hz": "417 Hz",
+    "target_outcome": "Pleasure, creativity, emotional flow",
+    "tags": ["#sacralchakra"]
+  },
+  {
+    "category": "Full Chakra Balancing",
+    "title": "Solar Plexus Confidence",
+    "audio_type": "Chakra Tone",
+    "technical_hz": "528 Hz",
+    "target_outcome": "Personal power and self-esteem",
+    "tags": ["#solarplexus"]
+  },
+  {
+    "category": "Full Chakra Balancing",
+    "title": "Heart Chakra Openness",
+    "audio_type": "Chakra Tone",
+    "technical_hz": "639 Hz",
+    "target_outcome": "Love, compassion, and connection",
+    "tags": ["#heartchakra"]
+  },
+  {
+    "category": "Full Chakra Balancing",
+    "title": "Throat Chakra Expression",
+    "audio_type": "Chakra Tone",
+    "technical_hz": "741 Hz",
+    "target_outcome": "Authentic voice and communication",
+    "tags": ["#throatchakra"]
+  },
+  {
+    "category": "Full Chakra Balancing",
+    "title": "Third Eye Chakra Insight",
+    "audio_type": "Chakra Tone",
+    "technical_hz": "852 Hz",
+    "target_outcome": "Intuition and mental clarity",
+    "tags": ["#thirdeye"]
+  },
+  {
+    "category": "Full Chakra Balancing",
+    "title": "Crown Chakra Connection",
+    "audio_type": "Chakra Tone",
+    "technical_hz": "963 Hz",
+    "target_outcome": "Spiritual connection and higher awareness",
+    "tags": ["#crownchakra"]
+  },
+  {
+    "category": "Manifestation & Law of Attraction",
+    "title": "The 555 Portal",
+    "audio_type": "Angel Frequency",
+    "technical_hz": "555 Hz",
+    "target_outcome": "Aligning with rapid positive change",
+    "tags": ["#manifestation"]
+  },
+  {
+    "category": "Manifestation & Law of Attraction",
+    "title": "Vision Board Activation",
+    "audio_type": "Binaural Beat",
+    "technical_hz": "145 Hz base / 7 Hz Theta",
+    "target_outcome": "Visualization potency for goal-setting",
+    "tags": ["#visualization"]
+  },
+  {
+    "category": "Manifestation & Law of Attraction",
+    "title": "Abundance Frequency Match",
+    "audio_type": "Angel Frequency",
+    "technical_hz": "888 Hz",
+    "target_outcome": "Reinforcing a prosperity mindset",
+    "tags": ["#abundance"]
+  },
+  {
+    "category": "Manifestation & Law of Attraction",
+    "title": "The 369 Method Companion",
+    "audio_type": "Isochronic Pulse",
+    "technical_hz": "9 Hz Alpha",
+    "target_outcome": "Pacing tool for repetition-based manifestation practice",
+    "tags": ["#369method"]
+  },
+  {
+    "category": "Manifestation & Law of Attraction",
+    "title": "Scripting Session Flow",
+    "audio_type": "Binaural Beat",
+    "technical_hz": "135 Hz base / 6 Hz Theta",
+    "target_outcome": "Supports journaling and future-self writing",
+    "tags": ["#scripting"]
+  },
+  {
+    "category": "Manifestation & Law of Attraction",
+    "title": "Instant Gratitude Shift",
+    "audio_type": "Solfeggio Tone",
+    "technical_hz": "528 Hz",
+    "target_outcome": "Quick emotional-state shift before manifestation work",
+    "tags": ["#gratitude"]
+  },
+  {
+    "category": "Manifestation & Law of Attraction",
+    "title": "Quantum Field Alignment",
+    "audio_type": "Angel Frequency",
+    "technical_hz": "1212 Hz",
+    "target_outcome": "Sense of synchronicity and flow",
+    "tags": ["#synchronicity"]
+  },
+  {
+    "category": "Forgiveness & Letting Go",
+    "title": "Release the Grudge",
+    "audio_type": "Solfeggio Tone",
+    "technical_hz": "396 Hz",
+    "target_outcome": "Dissolving resentment toward others",
+    "tags": ["#forgiveness"]
+  },
+  {
+    "category": "Forgiveness & Letting Go",
+    "title": "Self-Forgiveness Anchor",
+    "audio_type": "Solfeggio Tone",
+    "technical_hz": "528 Hz",
+    "target_outcome": "Compassion for past mistakes",
+    "tags": ["#selfforgiveness"]
+  },
+  {
+    "category": "Forgiveness & Letting Go",
+    "title": "Cutting Cords",
+    "audio_type": "Angel Frequency",
+    "technical_hz": "999 Hz",
+    "target_outcome": "Symbolic closure of a chapter or relationship",
+    "tags": ["#closure"]
+  },
+  {
+    "category": "Forgiveness & Letting Go",
+    "title": "The Unsent Letter",
+    "audio_type": "Binaural Beat",
+    "technical_hz": "120 Hz base / 6 Hz Theta",
+    "target_outcome": "Emotional processing without confrontation",
+    "tags": ["#processing"]
+  },
+  {
+    "category": "Forgiveness & Letting Go",
+    "title": "Exhale the Past",
+    "audio_type": "Harmonic Resonance",
+    "technical_hz": "432 Hz",
+    "target_outcome": "Physical release of tension stored from grudges",
+    "tags": ["#release"]
+  },
+  {
+    "category": "Forgiveness & Letting Go",
+    "title": "Neutral Ground",
+    "audio_type": "Isochronic Pulse",
+    "technical_hz": "8 Hz Alpha",
+    "target_outcome": "Calm approach to a difficult conversation",
+    "tags": ["#conflict"]
+  },
+  {
+    "category": "Forgiveness & Letting Go",
+    "title": "Clean Closure",
+    "audio_type": "Solfeggio Tone",
+    "technical_hz": "741 Hz",
+    "target_outcome": "Clarity after ending a chapter",
+    "tags": ["#closure"]
+  },
+  {
+    "category": "Gratitude, Joy & Playfulness",
+    "title": "Morning Gratitude Spark",
+    "audio_type": "Angel Frequency",
+    "technical_hz": "444 Hz",
+    "target_outcome": "Starting the day appreciating small wins",
+    "tags": ["#gratitude"]
+  },
+  {
+    "category": "Gratitude, Joy & Playfulness",
+    "title": "Inner Child Play",
+    "audio_type": "Binaural Beat",
+    "technical_hz": "160 Hz base / 10 Hz Alpha",
+    "target_outcome": "Reconnecting with lightness and spontaneity",
+    "tags": ["#playfulness"]
+  },
+  {
+    "category": "Gratitude, Joy & Playfulness",
+    "title": "Laughter Reset",
+    "audio_type": "Isochronic Pulse",
+    "technical_hz": "12 Hz Beta",
+    "target_outcome": "Uplifting mood shift, easy smiling",
+    "tags": ["#mood"]
+  },
+  {
+    "category": "Gratitude, Joy & Playfulness",
+    "title": "Abundant Joy Amplifier",
+    "audio_type": "Solfeggio Tone",
+    "technical_hz": "528 Hz",
+    "target_outcome": "General happiness and life-satisfaction boost",
+    "tags": ["#joy"]
+  },
+  {
+    "category": "Gratitude, Joy & Playfulness",
+    "title": "Simple Pleasures Awareness",
+    "audio_type": "Harmonic Resonance",
+    "technical_hz": "432 Hz",
+    "target_outcome": "Savoring everyday sensory moments",
+    "tags": ["#mindfulness"]
+  },
+  {
+    "category": "Gratitude, Joy & Playfulness",
+    "title": "Dance It Out",
+    "audio_type": "Binaural Beat",
+    "technical_hz": "175 Hz base / 18 Hz Beta",
+    "target_outcome": "Energizing, playful movement session",
+    "tags": ["#movement"]
+  },
+  {
+    "category": "Gratitude, Joy & Playfulness",
+    "title": "Sunday Contentment",
+    "audio_type": "Angel Frequency",
+    "technical_hz": "222 Hz",
+    "target_outcome": "Slow, easy, satisfied calm",
+    "tags": ["#contentment"]
+  },
+  {
+    "category": "Intuition & Decision-Making",
+    "title": "Gut Check Clarity",
+    "audio_type": "Chakra Tone",
+    "technical_hz": "528 Hz (Solar Plexus)",
+    "target_outcome": "Trusting instinctive body signals",
+    "tags": ["#gutinstinct"]
+  },
+  {
+    "category": "Intuition & Decision-Making",
+    "title": "The Crossroads Compass",
+    "audio_type": "Solfeggio Tone",
+    "technical_hz": "852 Hz",
+    "target_outcome": "Weighing options with a clear inner sense",
+    "tags": ["#decisions"]
+  },
+  {
+    "category": "Intuition & Decision-Making",
+    "title": "Quiet the Noise",
+    "audio_type": "Binaural Beat",
+    "technical_hz": "130 Hz base / 7 Hz Theta",
+    "target_outcome": "Muting overthinking to hear intuition",
+    "tags": ["#overthinking"]
+  },
+  {
+    "category": "Intuition & Decision-Making",
+    "title": "Yes/No Body Wisdom",
+    "audio_type": "Isochronic Pulse",
+    "technical_hz": "10 Hz Alpha",
+    "target_outcome": "Somatic decision-checking practice",
+    "tags": ["#bodywisdom"]
+  },
+  {
+    "category": "Intuition & Decision-Making",
+    "title": "Pattern Recognition Flow",
+    "audio_type": "Binaural Beat",
+    "technical_hz": "165 Hz base / 13 Hz SMR",
+    "target_outcome": "Spotting the right choice through subtle cues",
+    "tags": ["#clarity"]
+  },
+  {
+    "category": "Intuition & Decision-Making",
+    "title": "Third Eye Download",
+    "audio_type": "Solfeggio Tone",
+    "technical_hz": "852 Hz",
+    "target_outcome": "Sudden insight and 'aha' moments",
+    "tags": ["#insight"]
+  },
+  {
+    "category": "Intuition & Decision-Making",
+    "title": "Confident Commitment",
+    "audio_type": "Planetary Tone",
+    "technical_hz": "147.85 Hz (Saturn Octave)",
+    "target_outcome": "Locking in a decision without second-guessing",
+    "tags": ["#commitment"]
+  },
+  {
+    "category": "Memory & Cognitive Longevity",
+    "title": "Neuroplasticity Booster",
+    "audio_type": "Binaural Beat",
+    "technical_hz": "100 Hz base / 40 Hz Gamma",
+    "target_outcome": "Supports forming new neural pathways",
+    "tags": ["#neuroplasticity"]
+  },
+  {
+    "category": "Memory & Cognitive Longevity",
+    "title": "Name & Face Recall",
+    "audio_type": "Isochronic Pulse",
+    "technical_hz": "14 Hz Beta",
+    "target_outcome": "Practicing social memory retrieval",
+    "tags": ["#recall"]
+  },
+  {
+    "category": "Memory & Cognitive Longevity",
+    "title": "Long-Term Retention Loop",
+    "audio_type": "Binaural Beat",
+    "technical_hz": "105 Hz base / 6 Hz Theta",
+    "target_outcome": "Consolidating study material into memory",
+    "tags": ["#study"]
+  },
+  {
+    "category": "Memory & Cognitive Longevity",
+    "title": "Mental Sharpness",
+    "audio_type": "Solfeggio Tone",
+    "technical_hz": "528 Hz",
+    "target_outcome": "General perceived cognitive vitality",
+    "tags": ["#sharpness"]
+  },
+  {
+    "category": "Memory & Cognitive Longevity",
+    "title": "Crossword & Puzzle Mode",
+    "audio_type": "Isochronic Pulse",
+    "technical_hz": "15 Hz Beta",
+    "target_outcome": "Light, engaged problem-solving state",
+    "tags": ["#puzzles"]
+  },
+  {
+    "category": "Memory & Cognitive Longevity",
+    "title": "Morning Mental Warmup",
+    "audio_type": "Binaural Beat",
+    "technical_hz": "130 Hz base / 12 Hz Alpha",
+    "target_outcome": "Gentle cognitive activation upon waking",
+    "tags": ["#morning"]
+  },
+  {
+    "category": "Memory & Cognitive Longevity",
+    "title": "Distraction-Free Recall",
+    "audio_type": "Noise + Binaural",
+    "technical_hz": "Brown Noise + 10 Hz Alpha",
+    "target_outcome": "Blocking interference during memory tasks",
+    "tags": ["#focus"]
+  },
+  {
+    "category": "General Vitality & Everyday Wellbeing",
+    "title": "Morning Vitality Charge",
+    "audio_type": "Angel Frequency",
+    "technical_hz": "444 Hz",
+    "target_outcome": "General sense of energetic wellbeing",
+    "tags": ["#vitality"]
+  },
+  {
+    "category": "General Vitality & Everyday Wellbeing",
+    "title": "Cellular Renewal Companion",
+    "audio_type": "Solfeggio Tone",
+    "technical_hz": "285 Hz",
+    "target_outcome": "Subjective feeling of physical restoration",
+    "tags": ["#restoration"]
+  },
+  {
+    "category": "General Vitality & Everyday Wellbeing",
+    "title": "Sunshine Frequency",
+    "audio_type": "Harmonic Resonance",
+    "technical_hz": "432 Hz",
+    "target_outcome": "Uplifted mood associated with vitality",
+    "tags": ["#mood"]
+  },
+  {
+    "category": "General Vitality & Everyday Wellbeing",
+    "title": "Rest & Repair Support",
+    "audio_type": "Binaural Beat",
+    "technical_hz": "95 Hz base / 2 Hz Delta",
+    "target_outcome": "Deep restful state alongside physical downtime",
+    "tags": ["#rest"]
+  },
+  {
+    "category": "General Vitality & Everyday Wellbeing",
+    "title": "Seasonal Wellness Reset",
+    "audio_type": "Angel Frequency",
+    "technical_hz": "111 Hz",
+    "target_outcome": "General support through seasonal transitions",
+    "tags": ["#seasonal"]
+  },
+  {
+    "category": "General Vitality & Everyday Wellbeing",
+    "title": "Hydration & Body Awareness",
+    "audio_type": "Isochronic Pulse",
+    "technical_hz": "9 Hz Alpha",
+    "target_outcome": "Mindful body-check pacing tool",
+    "tags": ["#bodyawareness"]
+  },
+  {
+    "category": "General Vitality & Everyday Wellbeing",
+    "title": "Energetic Reserve Top-Up",
+    "audio_type": "Planetary Tone",
+    "technical_hz": "126.22 Hz (Sun Octave)",
+    "target_outcome": "General perceived energy replenishment",
+    "tags": ["#energy"]
+  },
+  {
+    "category": "Social Anxiety & Introvert Ease",
+    "title": "Room Entry Ease",
+    "audio_type": "Binaural Beat",
+    "technical_hz": "140 Hz base / 9 Hz Alpha",
+    "target_outcome": "Calm entering crowded social spaces",
+    "tags": ["#socialanxiety"]
+  },
+  {
+    "category": "Social Anxiety & Introvert Ease",
+    "title": "Small Talk Flow",
+    "audio_type": "Isochronic Pulse",
+    "technical_hz": "10 Hz Alpha",
+    "target_outcome": "Easy, casual conversation state",
+    "tags": ["#smalltalk"]
+  },
+  {
+    "category": "Social Anxiety & Introvert Ease",
+    "title": "Post-Social Recharge",
+    "audio_type": "Binaural Beat",
+    "technical_hz": "100 Hz base / 6 Hz Theta",
+    "target_outcome": "Introvert recovery time after socializing",
+    "tags": ["#introvert"]
+  },
+  {
+    "category": "Social Anxiety & Introvert Ease",
+    "title": "Party Anchor",
+    "audio_type": "Resonant Tone",
+    "technical_hz": "7.83 Hz (Schumann)",
+    "target_outcome": "Steadiness amid overstimulating environments",
+    "tags": ["#overstimulation"]
+  },
+  {
+    "category": "Social Anxiety & Introvert Ease",
+    "title": "Eye Contact Comfort",
+    "audio_type": "Solfeggio Tone",
+    "technical_hz": "639 Hz",
+    "target_outcome": "Easing discomfort with direct interpersonal connection",
+    "tags": ["#connection"]
+  },
+  {
+    "category": "Social Anxiety & Introvert Ease",
+    "title": "The Wallflower No More",
+    "audio_type": "Angel Frequency",
+    "technical_hz": "222 Hz",
+    "target_outcome": "Gentle confidence to engage rather than withdraw",
+    "tags": ["#confidence"]
+  },
+  {
+    "category": "Social Anxiety & Introvert Ease",
+    "title": "Safe Space Visualization",
+    "audio_type": "Binaural Beat",
+    "technical_hz": "120 Hz base / 7 Hz Theta",
+    "target_outcome": "Internal calm regardless of external noise",
+    "tags": ["#safety"]
+  },
+  {
+    "category": "New Beginnings & Life Transitions",
+    "title": "Fresh Chapter Opening",
+    "audio_type": "Angel Frequency",
+    "technical_hz": "111 Hz",
+    "target_outcome": "Embracing a new life phase",
+    "tags": ["#newbeginnings"]
+  },
+  {
+    "category": "New Beginnings & Life Transitions",
+    "title": "Moving Day Calm",
+    "audio_type": "Binaural Beat",
+    "technical_hz": "130 Hz base / 8 Hz Alpha",
+    "target_outcome": "Steadiness through relocation and change",
+    "tags": ["#moving"]
+  },
+  {
+    "category": "New Beginnings & Life Transitions",
+    "title": "Graduation Threshold",
+    "audio_type": "Solfeggio Tone",
+    "technical_hz": "528 Hz",
+    "target_outcome": "Confidence stepping into the unknown",
+    "tags": ["#graduation"]
+  },
+  {
+    "category": "New Beginnings & Life Transitions",
+    "title": "Empty Nest Adjustment",
+    "audio_type": "Solfeggio Tone",
+    "technical_hz": "639 Hz",
+    "target_outcome": "Emotional recalibration after family changes",
+    "tags": ["#emptynest"]
+  },
+  {
+    "category": "New Beginnings & Life Transitions",
+    "title": "Retirement Reframe",
+    "audio_type": "Planetary Tone",
+    "technical_hz": "183.58 Hz (Jupiter Octave)",
+    "target_outcome": "Expansive view of a new life stage",
+    "tags": ["#retirement"]
+  },
+  {
+    "category": "New Beginnings & Life Transitions",
+    "title": "Rebuilding After Loss",
+    "audio_type": "Solfeggio Tone",
+    "technical_hz": "396 Hz",
+    "target_outcome": "Steady rebuilding after a major setback",
+    "tags": ["#rebuilding"]
+  },
+  {
+    "category": "New Beginnings & Life Transitions",
+    "title": "The Blank Page",
+    "audio_type": "Binaural Beat",
+    "technical_hz": "150 Hz base / 10 Hz Alpha",
+    "target_outcome": "Optimism facing an undefined future",
+    "tags": ["#optimism"]
+  },
+  {
+    "category": "Lunar Cycle Rituals",
+    "title": "New Moon Intention Setting",
+    "audio_type": "Planetary Tone",
+    "technical_hz": "210.42 Hz (Moon Octave)",
+    "target_outcome": "Quiet, reflective goal-setting",
+    "tags": ["#newmoon"]
+  },
+  {
+    "category": "Lunar Cycle Rituals",
+    "title": "Full Moon Release",
+    "audio_type": "Solfeggio Tone",
+    "technical_hz": "396 Hz",
+    "target_outcome": "Letting-go ritual alignment",
+    "tags": ["#fullmoon"]
+  },
+  {
+    "category": "Lunar Cycle Rituals",
+    "title": "Waxing Momentum",
+    "audio_type": "Binaural Beat",
+    "technical_hz": "150 Hz base / 12 Hz Alpha",
+    "target_outcome": "Building energy toward a goal",
+    "tags": ["#momentum"]
+  },
+  {
+    "category": "Lunar Cycle Rituals",
+    "title": "Waning Wind-Down",
+    "audio_type": "Binaural Beat",
+    "technical_hz": "110 Hz base / 5 Hz Theta",
+    "target_outcome": "Slowing down and closing a cycle",
+    "tags": ["#winddown"]
+  },
+  {
+    "category": "Lunar Cycle Rituals",
+    "title": "Lunar Eclipse Stillness",
+    "audio_type": "Resonant Tone",
+    "technical_hz": "7.83 Hz (Schumann)",
+    "target_outcome": "Deep pause during major shifts",
+    "tags": ["#stillness"]
+  },
+  {
+    "category": "Lunar Cycle Rituals",
+    "title": "Moonlight Journaling",
+    "audio_type": "Isochronic Pulse",
+    "technical_hz": "7 Hz Theta",
+    "target_outcome": "Reflective writing pacing tool",
+    "tags": ["#journaling"]
+  },
+  {
+    "category": "Lunar Cycle Rituals",
+    "title": "Monthly Cycle Reset",
+    "audio_type": "Angel Frequency",
+    "technical_hz": "222 Hz",
+    "target_outcome": "General rhythm-awareness practice",
+    "tags": ["#rhythm"]
+  },
+  {
+    "category": "Protection & Energy Boundaries",
+    "title": "Energetic Shield",
+    "audio_type": "Angel Frequency",
+    "technical_hz": "777 Hz",
+    "target_outcome": "Sense of protection in draining environments",
+    "tags": ["#protection"]
+  },
+  {
+    "category": "Protection & Energy Boundaries",
+    "title": "Boundary Setting Confidence",
+    "audio_type": "Chakra Tone",
+    "technical_hz": "528 Hz (Solar Plexus)",
+    "target_outcome": "Saying no without guilt",
+    "tags": ["#boundaries"]
+  },
+  {
+    "category": "Protection & Energy Boundaries",
+    "title": "Empath Overwhelm Filter",
+    "audio_type": "Noise + Binaural",
+    "technical_hz": "Brown Noise + 8 Hz Alpha",
+    "target_outcome": "Reducing absorbed emotional overload",
+    "tags": ["#empath"]
+  },
+  {
+    "category": "Protection & Energy Boundaries",
+    "title": "Cord-Cutting Ritual",
+    "audio_type": "Angel Frequency",
+    "technical_hz": "999 Hz",
+    "target_outcome": "Releasing draining attachments",
+    "tags": ["#cordcutting"]
+  },
+  {
+    "category": "Protection & Energy Boundaries",
+    "title": "Personal Space Anchor",
+    "audio_type": "Binaural Beat",
+    "technical_hz": "130 Hz base / 9 Hz Alpha",
+    "target_outcome": "Comfort maintaining personal boundaries",
+    "tags": ["#personalspace"]
+  },
+  {
+    "category": "Protection & Energy Boundaries",
+    "title": "Digital Boundary Reset",
+    "audio_type": "Isochronic Pulse",
+    "technical_hz": "14 Hz Beta",
+    "target_outcome": "Confidence limiting screen and social intrusions",
+    "tags": ["#digitalboundaries"]
+  },
+  {
+    "category": "Protection & Energy Boundaries",
+    "title": "Safe Container Visualization",
+    "audio_type": "Resonant Tone",
+    "technical_hz": "7.83 Hz (Schumann)",
+    "target_outcome": "Internal sense of enclosed safety",
+    "tags": ["#safety"]
+  },
+  {
+    "category": "Family & Household Harmony",
+    "title": "Dinner Table Peace",
+    "audio_type": "Harmonic Resonance",
+    "technical_hz": "432 Hz",
+    "target_outcome": "Calming background presence for family time",
+    "tags": ["#family"]
+  },
+  {
+    "category": "Family & Household Harmony",
+    "title": "Sibling Conflict Cooldown",
+    "audio_type": "Solfeggio Tone",
+    "technical_hz": "639 Hz",
+    "target_outcome": "Easing tension between family members",
+    "tags": ["#siblings"]
+  },
+  {
+    "category": "Family & Household Harmony",
+    "title": "Parent Patience Reserve",
+    "audio_type": "Binaural Beat",
+    "technical_hz": "130 Hz base / 8 Hz Alpha",
+    "target_outcome": "Steadiness during parenting challenges",
+    "tags": ["#parenting"]
+  },
+  {
+    "category": "Family & Household Harmony",
+    "title": "Family Bedtime Wind-Down",
+    "audio_type": "Binaural Beat",
+    "technical_hz": "100 Hz base / 3 Hz Delta",
+    "target_outcome": "Winding down the whole household together",
+    "tags": ["#bedtime"]
+  },
+  {
+    "category": "Family & Household Harmony",
+    "title": "Household Chore Momentum",
+    "audio_type": "Isochronic Pulse",
+    "technical_hz": "15 Hz Beta",
+    "target_outcome": "Light energizing background for cleaning and organizing",
+    "tags": ["#chores"]
+  },
+  {
+    "category": "Family & Household Harmony",
+    "title": "Family Meeting Clarity",
+    "audio_type": "Solfeggio Tone",
+    "technical_hz": "741 Hz",
+    "target_outcome": "Constructive communication during family discussions",
+    "tags": ["#communication"]
+  },
+  {
+    "category": "Family & Household Harmony",
+    "title": "Homecoming Warmth",
+    "audio_type": "Angel Frequency",
+    "technical_hz": "222 Hz",
+    "target_outcome": "Comfort and reconnection after time apart",
+    "tags": ["#reunion"]
+  },
+  {
+    "category": "Travel & Flight Anxiety",
+    "title": "Takeoff Calm",
+    "audio_type": "Resonant Tone",
+    "technical_hz": "7.83 Hz (Schumann)",
+    "target_outcome": "Easing nerves during takeoff and turbulence",
+    "tags": ["#flightanxiety"]
+  },
+  {
+    "category": "Travel & Flight Anxiety",
+    "title": "Long-Haul Stillness",
+    "audio_type": "Binaural Beat",
+    "technical_hz": "100 Hz base / 4 Hz Delta",
+    "target_outcome": "Resting through long flights",
+    "tags": ["#longflight"]
+  },
+  {
+    "category": "Travel & Flight Anxiety",
+    "title": "Jet Lag Reset",
+    "audio_type": "Binaural Beat",
+    "technical_hz": "120 Hz base / 10 Hz Alpha",
+    "target_outcome": "Adjusting to new time zones",
+    "tags": ["#jetlag"]
+  },
+  {
+    "category": "Travel & Flight Anxiety",
+    "title": "Airport Overwhelm Shield",
+    "audio_type": "Colored Noise",
+    "technical_hz": "Brown Noise",
+    "target_outcome": "Blocking chaotic terminal noise",
+    "tags": ["#airport"]
+  },
+  {
+    "category": "Travel & Flight Anxiety",
+    "title": "New City Curiosity",
+    "audio_type": "Angel Frequency",
+    "technical_hz": "111 Hz",
+    "target_outcome": "Openness and excitement exploring unfamiliar places",
+    "tags": ["#exploration"]
+  },
+  {
+    "category": "Travel & Flight Anxiety",
+    "title": "Road Trip Focus",
+    "audio_type": "Isochronic Pulse",
+    "technical_hz": "14 Hz Beta",
+    "target_outcome": "Alertness for long-distance driving",
+    "tags": ["#roadtrip"]
+  },
+  {
+    "category": "Travel & Flight Anxiety",
+    "title": "Homeward Bound Ease",
+    "audio_type": "Harmonic Resonance",
+    "technical_hz": "432 Hz",
+    "target_outcome": "Comfort transitioning back after travel",
+    "tags": ["#return"]
+  },
+  {
+    "category": "Athletic Performance",
+    "title": "Pre-Competition Zone",
+    "audio_type": "Binaural Beat",
+    "technical_hz": "170 Hz base / 16 Hz Beta",
+    "target_outcome": "Sharp readiness before competing",
+    "tags": ["#competition"]
+  },
+  {
+    "category": "Athletic Performance",
+    "title": "In-Game Flow State",
+    "audio_type": "Binaural Beat",
+    "technical_hz": "155 Hz base / 12 Hz Alpha",
+    "target_outcome": "Sustained reactive focus during play",
+    "tags": ["#flowstate"]
+  },
+  {
+    "category": "Athletic Performance",
+    "title": "Recovery Between Sets",
+    "audio_type": "Isochronic Pulse",
+    "technical_hz": "8 Hz Alpha",
+    "target_outcome": "Quick reset breathing during intervals",
+    "tags": ["#recovery"]
+  },
+  {
+    "category": "Athletic Performance",
+    "title": "Post-Match Cooldown",
+    "audio_type": "Harmonic Resonance",
+    "technical_hz": "432 Hz",
+    "target_outcome": "Physical and mental de-escalation after competing",
+    "tags": ["#cooldown"]
+  },
+  {
+    "category": "Athletic Performance",
+    "title": "Visualization Rehearsal",
+    "audio_type": "Binaural Beat",
+    "technical_hz": "140 Hz base / 7 Hz Theta",
+    "target_outcome": "Mental rehearsal of technique and plays",
+    "tags": ["#visualization"]
+  },
+  {
+    "category": "Athletic Performance",
+    "title": "Team Cohesion Sync",
+    "audio_type": "Solfeggio Tone",
+    "technical_hz": "639 Hz",
+    "target_outcome": "Group rapport before team events",
+    "tags": ["#teamsport"]
+  },
+  {
+    "category": "Athletic Performance",
+    "title": "Injury Patience & Healing Mindset",
+    "audio_type": "Solfeggio Tone",
+    "technical_hz": "285 Hz",
+    "target_outcome": "Emotional patience during physical recovery",
+    "tags": ["#injury"]
+  },
+  {
+    "category": "Kids & Teen Study Focus",
+    "title": "Homework Helper",
+    "audio_type": "Isochronic Pulse",
+    "technical_hz": "12 Hz Beta",
+    "target_outcome": "Gentle sustained attention for homework",
+    "tags": ["#homework"]
+  },
+  {
+    "category": "Kids & Teen Study Focus",
+    "title": "Reading Time Calm",
+    "audio_type": "Binaural Beat",
+    "technical_hz": "130 Hz base / 9 Hz Alpha",
+    "target_outcome": "Easy absorption during reading practice",
+    "tags": ["#reading"]
+  },
+  {
+    "category": "Kids & Teen Study Focus",
+    "title": "Test Day Nerves Down",
+    "audio_type": "Resonant Tone",
+    "technical_hz": "7.83 Hz (Schumann)",
+    "target_outcome": "Calming pre-exam jitters for students",
+    "tags": ["#examnerves"]
+  },
+  {
+    "category": "Kids & Teen Study Focus",
+    "title": "Classroom Listening Mode",
+    "audio_type": "Binaural Beat",
+    "technical_hz": "140 Hz base / 13 Hz SMR",
+    "target_outcome": "Supports sustained classroom attention",
+    "tags": ["#classroom"]
+  },
+  {
+    "category": "Kids & Teen Study Focus",
+    "title": "Creative Project Spark",
+    "audio_type": "Binaural Beat",
+    "technical_hz": "160 Hz base / 10 Hz Alpha",
+    "target_outcome": "Idea generation for school projects",
+    "tags": ["#projects"]
+  },
+  {
+    "category": "Kids & Teen Study Focus",
+    "title": "Screen-Break Reset",
+    "audio_type": "Isochronic Pulse",
+    "technical_hz": "9 Hz Alpha",
+    "target_outcome": "Short reset between study screen sessions",
+    "tags": ["#screenbreak"]
+  },
+  {
+    "category": "Kids & Teen Study Focus",
+    "title": "Student Bedtime Wind-Down",
+    "audio_type": "Binaural Beat",
+    "technical_hz": "100 Hz base / 3 Hz Delta",
+    "target_outcome": "Settling an active young mind for sleep",
+    "tags": ["#bedtime"]
+  },
+  {
+    "category": "Meditation Depth Ladder",
+    "title": "Level 1: Settling In",
+    "audio_type": "Isochronic Pulse",
+    "technical_hz": "10 Hz Alpha",
+    "target_outcome": "Beginner relaxed alertness",
+    "tags": ["#beginner"]
+  },
+  {
+    "category": "Meditation Depth Ladder",
+    "title": "Level 2: Quiet Mind",
+    "audio_type": "Binaural Beat",
+    "technical_hz": "130 Hz base / 8 Hz Alpha",
+    "target_outcome": "Reducing mental chatter",
+    "tags": ["#quietmind"]
+  },
+  {
+    "category": "Meditation Depth Ladder",
+    "title": "Level 3: Theta Threshold",
+    "audio_type": "Binaural Beat",
+    "technical_hz": "115 Hz base / 6 Hz Theta",
+    "target_outcome": "Entering deeper meditative absorption",
+    "tags": ["#theta"]
+  },
+  {
+    "category": "Meditation Depth Ladder",
+    "title": "Level 4: Deep Stillness",
+    "audio_type": "Binaural Beat",
+    "technical_hz": "100 Hz base / 4 Hz Theta",
+    "target_outcome": "Advanced practitioner depth",
+    "tags": ["#deepmeditation"]
+  },
+  {
+    "category": "Meditation Depth Ladder",
+    "title": "Level 5: Delta Approach",
+    "audio_type": "Binaural Beat",
+    "technical_hz": "95 Hz base / 2.5 Hz Delta",
+    "target_outcome": "Edge-of-sleep meditative state",
+    "tags": ["#delta"]
+  },
+  {
+    "category": "Meditation Depth Ladder",
+    "title": "Level 6: Boundless Awareness",
+    "audio_type": "Binaural Beat",
+    "technical_hz": "100 Hz base / 0.5 Hz Epsilon",
+    "target_outcome": "Very advanced non-dual practice",
+    "tags": ["#advanced"]
+  },
+  {
+    "category": "Meditation Depth Ladder",
+    "title": "Integration & Return",
+    "audio_type": "Isochronic Pulse",
+    "technical_hz": "12 Hz Beta",
+    "target_outcome": "Gently re-alerting after deep sessions",
+    "tags": ["#integration"]
+  },
+  {
+    "category": "Digital Detox & Screen Fatigue",
+    "title": "Eye Strain Ease",
+    "audio_type": "Harmonic Resonance",
+    "technical_hz": "432 Hz",
+    "target_outcome": "General relaxation during screen breaks",
+    "tags": ["#eyestrain"]
+  },
+  {
+    "category": "Digital Detox & Screen Fatigue",
+    "title": "Notification Anxiety Down",
+    "audio_type": "Binaural Beat",
+    "technical_hz": "130 Hz base / 8 Hz Alpha",
+    "target_outcome": "Easing the urge to check your phone",
+    "tags": ["#notifications"]
+  },
+  {
+    "category": "Digital Detox & Screen Fatigue",
+    "title": "Scroll Fatigue Reset",
+    "audio_type": "Isochronic Pulse",
+    "technical_hz": "9 Hz Alpha",
+    "target_outcome": "Recovering attention after long scrolling sessions",
+    "tags": ["#scrolling"]
+  },
+  {
+    "category": "Digital Detox & Screen Fatigue",
+    "title": "Offline Evening Transition",
+    "audio_type": "Binaural Beat",
+    "technical_hz": "110 Hz base / 5 Hz Theta",
+    "target_outcome": "Winding down without screens",
+    "tags": ["#eveningroutine"]
+  },
+  {
+    "category": "Digital Detox & Screen Fatigue",
+    "title": "Digital Sabbath Calm",
+    "audio_type": "Solfeggio Tone",
+    "technical_hz": "396 Hz",
+    "target_outcome": "Releasing dependency guilt during a break",
+    "tags": ["#digitalsabbath"]
+  },
+  {
+    "category": "Digital Detox & Screen Fatigue",
+    "title": "Boredom Tolerance Builder",
+    "audio_type": "Isochronic Pulse",
+    "technical_hz": "7 Hz Theta",
+    "target_outcome": "Sitting comfortably with unstimulated moments",
+    "tags": ["#boredom"]
+  },
+  {
+    "category": "Digital Detox & Screen Fatigue",
+    "title": "Screen-Free Focus Return",
+    "audio_type": "Binaural Beat",
+    "technical_hz": "150 Hz base / 14 Hz Low-Beta",
+    "target_outcome": "Rebuilding sustained attention span",
+    "tags": ["#attentionspan"]
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "name": "Aetheria",
+  "description": "Aetheria — Spotify-style player for therapeutic and wellness audio frequencies, synthesizing real-time binaural beats, isochronic pulses, solfeggio tones, and psychoacoustic noise on-device.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

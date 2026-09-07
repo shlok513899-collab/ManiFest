@@ -1,0 +1,63 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+    
+    <!-- Background Circle -->
+    <path
+        android:pathData="M50,4 A46,46 0 1,0 50,96 A46,46 0 1,0 50,4 Z"
+        android:fillColor="#131B2E"
+        android:strokeWidth="2.5">
+        <aapt:attr name="android:strokeColor">
+            <gradient
+                android:startX="10"
+                android:startY="10"
+                android:endX="90"
+                android:endY="90"
+                android:type="linear">
+                <item android:color="#8B5CF6" android:offset="0.0" />
+                <item android:color="#06B6D4" android:offset="0.5" />
+                <item android:color="#10B981" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Outer Concentric Ring -->
+    <path
+        android:pathData="M50,18 A32,32 0 1,0 50,82 A32,32 0 1,0 50,18 Z"
+        android:strokeColor="#598B5CF6"
+        android:strokeWidth="1.5" />
+
+    <!-- Inner Concentric Ring -->
+    <path
+        android:pathData="M50,30 A20,20 0 1,0 50,70 A20,20 0 1,0 50,30 Z"
+        android:strokeColor="#8006B6D4"
+        android:strokeWidth="1.5" />
+
+    <!-- Harmonic Waveform -->
+    <path
+        android:pathData="M26,50 C32,38 36,38 42,50 C48,62 52,62 58,50 C64,38 68,38 74,50"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round">
+        <aapt:attr name="android:strokeColor">
+            <gradient
+                android:startX="26"
+                android:startY="50"
+                android:endX="74"
+                android:endY="50"
+                android:type="linear">
+                <item android:color="#8B5CF6" android:offset="0.0" />
+                <item android:color="#06B6D4" android:offset="0.5" />
+                <item android:color="#10B981" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Center Node -->
+    <path
+        android:pathData="M50,46.5 A3.5,3.5 0 1,0 50,53.5 A3.5,3.5 0 1,0 50,46.5 Z"
+        android:fillColor="#FFFFFF" />
+</vector>
