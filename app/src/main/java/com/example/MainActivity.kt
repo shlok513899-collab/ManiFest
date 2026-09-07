@@ -104,6 +104,7 @@ fun ResonanceApp(viewModel: FrequencyPlayerViewModel) {
     ) { /* Permission granted or denied */ }
 
     LaunchedEffect(Unit) {
+        viewModel.checkFirstLaunchOnboarding(context)
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.TIRAMISU) {
             if (ContextCompat.checkSelfPermission(
                     context,
@@ -260,7 +261,7 @@ fun ResonanceApp(viewModel: FrequencyPlayerViewModel) {
     // Onboarding Walkthrough Dialog
     if (showOnboardingDialog) {
         OnboardingDialog(
-            onDismiss = { viewModel.setShowOnboardingDialog(false) }
+            onDismiss = { viewModel.completeOnboarding(context) }
         )
     }
 }

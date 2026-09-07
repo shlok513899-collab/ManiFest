@@ -337,7 +337,7 @@ fun ProfileScreen(
                     )
                     Spacer(modifier = Modifier.width(8.dp))
                     Text(
-                        text = "Review Acoustic Science Guide",
+                        text = "Replay Onboarding & Science Tour",
                         fontSize = 14.sp,
                         fontWeight = FontWeight.SemiBold
                     )

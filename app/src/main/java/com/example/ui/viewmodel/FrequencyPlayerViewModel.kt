@@ -84,6 +84,20 @@ class FrequencyPlayerViewModel(
     private val _showOnboardingDialog = MutableStateFlow(false)
     val showOnboardingDialog: StateFlow<Boolean> = _showOnboardingDialog.asStateFlow()
 
+    fun checkFirstLaunchOnboarding(context: Context) {
+        val prefs = context.getSharedPreferences("aetheria_prefs", Context.MODE_PRIVATE)
+        val hasCompleted = prefs.getBoolean("has_completed_onboarding", false)
+        if (!hasCompleted) {
+            _showOnboardingDialog.value = true
+        }
+    }
+
+    fun completeOnboarding(context: Context) {
+        val prefs = context.getSharedPreferences("aetheria_prefs", Context.MODE_PRIVATE)
+        prefs.edit().putBoolean("has_completed_onboarding", true).apply()
+        _showOnboardingDialog.value = false
+    }
+
     init {
         loadData()
     }

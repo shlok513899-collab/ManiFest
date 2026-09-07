@@ -130,4 +130,31 @@ class ExampleRobolectricTest {
         PlaybackStateManager.stop(context)
         assertFalse("Playback should not be playing after stop", PlaybackStateManager.isPlaying.value)
     }
+
+    @Test
+    fun `one-time onboarding flow persistence and first-launch check`() {
+        val context = ApplicationProvider.getApplicationContext<Context>()
+        val prefs = context.getSharedPreferences("aetheria_prefs", Context.MODE_PRIVATE)
+        prefs.edit().clear().commit()
+
+        val presetRepo = PresetRepository(context)
+        val db = Room.inMemoryDatabaseBuilder(context, AppDatabase::class.java).build()
+        val favRepo = com.example.data.FavoritesRepository(db.favoriteDao())
+        val viewModel = com.example.ui.viewmodel.FrequencyPlayerViewModel(presetRepo, favRepo)
+
+        // First launch: should trigger onboarding
+        viewModel.checkFirstLaunchOnboarding(context)
+        assertTrue("Onboarding should be shown on first launch", viewModel.showOnboardingDialog.value)
+
+        // Complete onboarding
+        viewModel.completeOnboarding(context)
+        assertFalse("Onboarding should be dismissed after completion", viewModel.showOnboardingDialog.value)
+        assertTrue("Preferences should mark onboarding as completed", prefs.getBoolean("has_completed_onboarding", false))
+
+        // Subsequent launch: should NOT show onboarding
+        viewModel.checkFirstLaunchOnboarding(context)
+        assertFalse("Onboarding should not be shown on subsequent launches", viewModel.showOnboardingDialog.value)
+
+        db.close()
+    }
 }
